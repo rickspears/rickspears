@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
     '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
@@ -24,3 +25,9 @@ The Cloud9 IDE team
 
 Visit http://docs.c9.io for documentation, or http://support.c9.io for support.
 To watch some training videos, visit http://www.youtube.com/user/c9ide.
+=======
+rickspears
+==========
+
+Online Portfolio using MEAN Stack (MongoDB, ExpressJS, AngularJS, NodeJS). Cloud9 as the IDE and hosting on Heroku
+>>>>>>> 40d62c56ff3db3f8b6550efcc2c170ab8f14d006
